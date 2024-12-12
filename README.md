@@ -48,5 +48,10 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | git reset --hard numero do commit | Redefine o índice e a árvore de trabalho. Os arquivo são simplesmente excluídos quando quaisquer arquivos ou diretórios não estejam rastreados no modo de escrita |
 | git remote add origin URL | Conecta o repositório local com o repositório remoto |
 | git push -u origin main | Envia as alterações do repositório local para o repositório reomoto |
-| git pull | Puxa as alterações feitas no repositório remoto para o repesitório local
+| git pull | Puxa as alterações feitas no repositório remoto para o repesitório local |
+| git checkout -b nome da nova branch | Cria uma nova branch |
+| git checkout nome da branch | Troca para a escolhida |
+| git branch -v | Lista o número de commits de todas as branches |
+| git merg nome da branch | Mescla as alterações da branch escolhida com a branch main |
+| git branch -d nome da branch | Exclui a branch escolhida | 
 
