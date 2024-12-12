@@ -46,3 +46,6 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | git reset --soft numero do commit | Isso deixa todos os seus arquivos alterados como "Changes to be committed" (Alterações que serão adicionadas ao commit), como o git status colocaria |
 | git reset --mixed numero do commit | Os arquivos alterados são preservados, mas não marcados para um commit e relata o que não foi atualizado | 
 | git reset --hard numero do commit | Redefine o índice e a árvore de trabalho. Os arquivo são simplesmente excluídos quando quaisquer arquivos ou diretórios não estejam rastreados no modo de escrita |
+| git remote add origin URL | Conecta o repositório local com o repositório remoto |
+| git push -u origin main | Envia as alterações do repositório local para o repositório reomoto |
+
