@@ -39,3 +39,10 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | touch "pasta do arquivo/nome do arquivo" | Cria um arquivo vazio em uma pasta especifica| 
 | echo nome do conteudo > para onde será enviado | Envia um arquivo ou pasta para um lugar especifico |
 | echo > pasta/arquivo | Remove o conteudo de uma pasta ou arquivos |
+|git add . | Adiciona todos os arquivos na área de preparação | 
+| rm -rf .git | Desfaz um repositório Git |
+| git restore nome do arquivo | Dezfaz as alterções feitas em um arquivo |
+|git commit --amend -m"Descrição do commit" | Altera o descrição do ultimo commit | 
+| git reset --soft numero do commit | Isso deixa todos os seus arquivos alterados como "Changes to be committed" (Alterações que serão adicionadas ao commit), como o git status colocaria |
+| git reset --mixed numero do commit | Os arquivos alterados são preservados, mas não marcados para um commit e relata o que não foi atualizado | 
+| git reset --hard numero do commit | Redefine o índice e a árvore de trabalho. Os arquivo são simplesmente excluídos quando quaisquer arquivos ou diretórios não estejam rastreados no modo de escrita |
