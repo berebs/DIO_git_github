@@ -48,4 +48,5 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | git reset --hard numero do commit | Redefine o índice e a árvore de trabalho. Os arquivo são simplesmente excluídos quando quaisquer arquivos ou diretórios não estejam rastreados no modo de escrita |
 | git remote add origin URL | Conecta o repositório local com o repositório remoto |
 | git push -u origin main | Envia as alterações do repositório local para o repositório reomoto |
+| git pull | Puxa as alterações feitas no repositório remoto para o repesitório local
 
