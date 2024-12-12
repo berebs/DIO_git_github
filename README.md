@@ -35,3 +35,7 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | mkdir nome do repositório | Cria um diretório simples no caminho/nome fornecido | 
 | cd nome do repositório | É usado para entrar no repositório | 
 | git commit -m "Descrição da alteração" | Salva as alterações feitas em determinado arquivo, armazenando em um repositório de controle de versões 
+| git log | Exibe os registros de commit |
+| touch "pasta do arquivo/nome do arquivo" | Cria um arquivo vazio em uma pasta especifica| 
+| echo nome do conteudo > para onde será enviado | Envia um arquivo ou pasta para um lugar especifico |
+| echo > pasta/arquivo | Remove o conteudo de uma pasta ou arquivos |
