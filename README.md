@@ -54,4 +54,4 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | git branch -v | Lista o número de commits de todas as branches |
 | git merg nome da branch | Mescla as alterações da branch escolhida com a branch main |
 | git branch -d nome da branch | Exclui a branch escolhida | 
-
+| git clone url --branch nome-da-branch --single-branch | Utiliza para clonar apenas uma branch |
