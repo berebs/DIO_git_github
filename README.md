@@ -8,6 +8,7 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 - [Documentação GitHub](https://docs.github.com/pt)
 - [Comandos do Git](https://github.com/berebs/dio-lab-open-source/blob/main/utils/git/COMANDOSGIT.md)
 - [Guia de Contribuição em um Projeto Open Source](https://digitalinnovationone.github.io/dio-lab-open-source/)
+- [Utilitários para o Profile README](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/README.md)
 
 ## 💻 Aulas:
 
