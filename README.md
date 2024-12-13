@@ -3,9 +3,11 @@
 
 Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento de Código com Git e GitHub da DIO
 
-## 📖 Documentação: 
+## 📖 Documentação e Links úteis : 
 - [Documentação Git](https://git-scm.com/doc)
 - [Documentação GitHub](https://docs.github.com/pt)
+- [Comandos do Git](https://github.com/berebs/dio-lab-open-source/blob/main/utils/git/COMANDOSGIT.md)
+- [Guia de Contribuição em um Projeto Open Source](https://digitalinnovationone.github.io/dio-lab-open-source/)
 
 ## 💻 Aulas:
 
@@ -55,3 +57,6 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 | git merg nome da branch | Mescla as alterações da branch escolhida com a branch main |
 | git branch -d nome da branch | Exclui a branch escolhida | 
 | git clone url --branch nome-da-branch --single-branch | Utiliza para clonar apenas uma branch |
+| git remote add upstream | Conecta o repositório local com o repositório original que você fez o fork, mantendo o repositório local atualizado |
+| git pull upstream main | Baixa e mescla as alterações no repositório local com base na branch main deste repositório original de onde você fez o fork |
+| git fetch upstream main | Baixar as alterações sem mesclar |
