@@ -14,18 +14,18 @@ Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento 
 
 | Aulas | Link |
 |-------|-------- |
-| Instalando Git no Windows | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao)
-| Instalando Git no Linux | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Configurando Git | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Autenticnado via Token | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Autenticando via SSH | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Criando e Clonando Repositórios | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) | 
-| Salvando Alterações no Repositório Local |[Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Desfazendo Alterações no Repositório Local | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Enviando e Baixando Alterações com o Repositório Remoto | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Trabalhando com Branches (Parte 1) | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
-| Trabalhando com Branches (Parte 2) | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) | 
-| Dicas e Materiais de Apio | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) \ [Materiais de Apio](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/gft-start-logica-de-programacao) |
+| Instalando Git no Windows | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/c8d73362-9038-4259-af4c-30dcc5551afe?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao)
+| Instalando Git no Linux | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/5e5fe1c6-59d6-4003-b4a1-e9799c7755ec?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Configurando Git | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/f9b294d2-f8ca-4364-9031-1e897721b3e2?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Autenticnado via Token | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3d13d85f-2508-4396-9657-4643d3302c79?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Autenticando via SSH | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a53b7d6e-d7a2-40de-a8f9-cc30b42fc93d?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Criando e Clonando Repositórios | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/a377a00b-461c-4ab0-8258-3addd2fef14c?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) | 
+| Salvando Alterações no Repositório Local |[Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Desfazendo Alterações no Repositório Local | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/3f9f2336-6fd5-44cb-ba39-d1a4f6448023?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Enviando e Baixando Alterações com o Repositório Remoto | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/dd17c56e-2327-493c-942a-358a49a26549?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Trabalhando com Branches (Parte 1) | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/2c7fd2b1-e7c4-4947-9b07-ffcbfb4bd689?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
+| Trabalhando com Branches (Parte 2) | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/80018fab-daac-4917-8527-a6be2e0c3cf0?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) | 
+| Dicas e Materiais de Apio | [Aula](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/b2ceffed-9d18-4369-a038-e72be0953455?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) \ [Materiais de Apio](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/4d5d63da-1565-4e37-ac34-02f262626851?autoplay=1&back=%2Ftrack%2Fgft-start-logica-de-programacao) |
 
 ## 📖 Resumo dos Comandos 
 
