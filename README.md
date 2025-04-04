@@ -1,5 +1,13 @@
+# Anotações do Bootcamp de Git/GitHub da DIO
 
-# DIO | Resumos Git e GitHub
+📚 **Descrição**  
+Repositório criado durante o curso de Git/GitHub da Digital Innovation One. Aqui guardo comandos úteis, prints das aulas e exercícios práticos. Ideal para quem está começando!
+
+✨ **O Que Tem Aqui**  
+- Comandos Git essenciais
+- Exemplos de fluxo de trabalho
+- Minhas primeiras tentativas de pull request
+
 
 Repositório para armazenar resumos sobre o Git e GitHub do curso Versionamento de Código com Git e GitHub da DIO
 
